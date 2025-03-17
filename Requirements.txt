@@ -1,0 +1,13 @@
+
+### **Summary of Requirements**
+| **Requirement**            | **Details**                                   |
+|----------------------------|-----------------------------------------------|
+| **Python Version**         | Python 3.6 or higher                         |
+| **Libraries**              | `re`, `random`, `string`, `tkinter`, `datetime` |
+| **Files**                  | `rockyou.txt`, `password_analysis_log.txt`    |
+| **Operating System**       | Windows, macOS, or Linux                     |
+| **Disk Space**             | ~200 MB                                       |
+| **Memory**                 | ~50 MB                                        |
+| **Permissions**            | Read/write access to project directory       |
+
+By ensuring these requirements are met, you’ll be able to successfully run the **Password Strength Analyzer** program with its GUI and logging features!
